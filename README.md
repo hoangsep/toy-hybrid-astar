@@ -1,5 +1,5 @@
-# Project Name
-
+# Toy Example of Hybrid Astar Algorithm
+![path](path.gif)
 Minimal hybird A* path planning algorithm implementation in C++ using Bazel build system and openCV for display. The project demonstrated:
 - Hybrid A* path planning algorithm
 - (fake) Reeds-Shepp path for shortcut the path
